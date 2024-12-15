@@ -1,3 +1,7 @@
+
+# Published Mini-Project Landing Page URL
+https://sigros02.github.io/Module-01-Mini-Project-Landing-Page/
+
 # Module 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
@@ -19,9 +23,9 @@ Work in your group to implement the following user stories:
 
 * ~~It's done when the page uses semantic HTML elements.~~
 
-* It's done when the page uses universal, element, and class selectors in CSS.
+* ~~It's done when the page uses universal, element, and class selectors in CSS.~~
 
-* It's done when the page features at least three colors in the design.
+* ~~It's done when the page features at least three colors in the design.~~
 
 * ~~It's done when the page uses a single font and font family for all text.~~
 
@@ -39,7 +43,7 @@ Work in your group to implement the following user stories:
 
 * ~~It's done when the image includes a descriptive `alt` attribute.~~
 
-* It's done when the page is deployed to GitHub Pages.
+* ~~It's done when the page is deployed to GitHub Pages.~~
 
 ## Sample Page
 * The following screenshot is provided as an **example** of what you can do, but be creative! As long as you complete all of the acceptance criterions, any landing page is acceptable. 
